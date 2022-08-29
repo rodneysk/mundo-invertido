@@ -85,3 +85,5 @@ Semana do Front-end promovida pela Digital Innovation One, onde desenvolvemos um
 - [Figma](https://www.figma.com/file/I3Q42CcVUziRN3iMfTrbfb/Stranger-Things?node-id=0%3A1) 
 - [Demo](https://micheleambrosio.github.io/semana-frontend-mundo-invertido/) 
 
+## 🌎 Acesse o Mundo Invertido!
+https://rodneysk.github.io/mundo-invertido/

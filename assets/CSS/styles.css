@@ -177,7 +177,7 @@
     height: 100%;
     background-color: var(--character-top-image-color);
 
-    mask: var(--character-top-image-src) bottom / 100% no-repeat;
+    mask: var(--character-top-image-src) bottom / contain no-repeat;
     -webkit-mask: var(--character-top-image-src) bottom / 100% no-repeat;
    }
 
